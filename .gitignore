@@ -1,0 +1,9 @@
+.last_checked
+.ipynb_checkpoints/
+mppn/__pycache__/
+*.egg-info/
+models
+build
+dist
+tmp/
+docs
