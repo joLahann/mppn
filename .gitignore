@@ -5,5 +5,5 @@ mppn/__pycache__/
 models
 build
 dist
-tmp/
+tmp
 docs
